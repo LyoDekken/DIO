@@ -1,4 +1,4 @@
-module github.com/LyoDekken/numbers
+module github.com/LyoDekken/numbers-2
 
 go 1.20
 

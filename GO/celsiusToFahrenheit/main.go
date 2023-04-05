@@ -10,9 +10,6 @@ import (
 	"github.com/gookit/color"
 )
 
-git config --global user.name "LyoDekken"
-git config --global user.email "humberto.araripe12@gmail.com"
-
 func main() {
 	showIntroAnimation()
 

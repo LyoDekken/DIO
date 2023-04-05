@@ -1,0 +1,1 @@
+# Programa em Go para a Conversão de Escalas Termométricas
